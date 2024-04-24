@@ -59,8 +59,9 @@ Flow Navigation (Screen to Screen)
 - [x] Explore
 - [X] Edit Profile
 - [ ] Settings
-# Wireframes
-![image](https://github.com/Acelucky13/Illustrate-Share-Books/assets/145727326/5f29c58b-7d46-4bf4-a02c-6db71598e25b)
+# Wireframe
+<img width="1216" alt="Screenshot 2024-04-24 at 3 43 41 PM" src="https://github.com/Acelucky13/BookShareApp/assets/145727326/f3c2832b-52d2-438d-a965-43c5a8b4d967">
+
 ### [BONUS] Interactive Prototype
 
 # Updated Prototype Video
