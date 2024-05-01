@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1420"
+   LastUpgradeVersion = "1530"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-               BuildableName = "ios101-project5-tumblr.app"
-               BlueprintName = "ios101-project5-tumblr"
-               ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+               BuildableName = "Book Share.app"
+               BlueprintName = "Book Share"
+               ReferencedContainer = "container:Book Share.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-            BuildableName = "ios101-project5-tumblr.app"
-            BlueprintName = "ios101-project5-tumblr"
-            ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+            BuildableName = "Book Share.app"
+            BlueprintName = "Book Share"
+            ReferencedContainer = "container:Book Share.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ED59160B29BC307D000F25AE"
-            BuildableName = "ios101-project5-tumblr.app"
-            BlueprintName = "ios101-project5-tumblr"
-            ReferencedContainer = "container:ios101-project5-tumblr.xcodeproj">
+            BuildableName = "Book Share.app"
+            BlueprintName = "Book Share"
+            ReferencedContainer = "container:Book Share.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
